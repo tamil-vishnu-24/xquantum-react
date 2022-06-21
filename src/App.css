@@ -1,0 +1,129 @@
+
+.App {
+  width :100vw ;
+  height: 100vh;
+  background-color: rgba(103, 17, 179, 0.13);
+  text-align: center;
+}
+#h1 {
+  text-align: center;
+}
+body 
+{
+  margin : 0;
+  padding : 0;
+}
+.Sidebar{
+  height :100% ;
+  width :300px;
+  background-color:white ;
+
+  
+}
+.sidebarList {
+  width: auto;
+  height: auto;
+  padding: 0;
+}
+.sidebarList .row {
+  width: 100% ;
+  height: 100%;
+  padding: 15px 0   ;
+  list-style: none;
+  margin : 0 ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.wallet-adapter-button-trigger{
+  content: 'CONNECT WALLET'; 
+}
+.sidebarList .row:hover {
+  cursor : pointer ;
+  background-color: rgba(103, 17, 179, 0.13);
+  border-radius: 35px;
+  
+}
+.row #icon {
+  flex : 30%;
+  display: grid;
+  place-items: center;
+}
+.row #title {
+  flex : 70% ;
+  display: grid;
+
+}
+
+.sidebarHeader{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sidebarHeader h2{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.sidebarHeader button {
+  text-align: center;
+  margin-bottom: 30px;
+
+    background: #7f2a87;
+    background-image: -webkit-linear-gradient(top, #7f2a87, #7f2a87);
+    background-image: -moz-linear-gradient(top, #7f2a87, #7f2a87);
+    background-image: -ms-linear-gradient(top, #7f2a87, #7f2a87);
+    background-image: -o-linear-gradient(top, #7f2a87, #7f2a87);
+    background-image: linear-gradient(to bottom, #7f2a87, #7f2a87);
+    -webkit-border-radius: 57;
+    -moz-border-radius: 57;
+    border-radius: 57px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #ba22d1 6px;
+    text-decoration: none;
+  }
+  
+  
+.sidebarHeader button:hover {
+  text-decoration: none;
+}
+.footer {
+  position: relative;
+  padding-top: 75px;
+  bottom: 10px;
+  text-align: center;
+}
+.sidebarFooter{
+  border: 0.5px solid rgb(23, 16, 16); 
+  border-style: none none solid none;
+}
+.sidebarFooter h3{
+  text-align: center;
+  font-size: x-small;
+  text-decoration: none;
+}
+.sidebarBottom{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: end;
+  align-items: end;
+}
+.sidebarBottom #copy1{
+  font-size: small;
+  flex : 50%;
+  display: grid;
+  place-items: right;
+
+}
+.sidebarBottom #copy2{
+  font-size: x-small;
+  flex : 50%;
+  display: grid;
+  place-items: center;
+
+}
