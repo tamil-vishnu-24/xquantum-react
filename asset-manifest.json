@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/xquantum-react/static/css/main.436c3905.css",
+    "main.js": "/xquantum-react/static/js/main.ff319457.js",
+    "static/js/431.6ce697e3.chunk.js": "/xquantum-react/static/js/431.6ce697e3.chunk.js",
+    "static/js/126.37057da3.chunk.js": "/xquantum-react/static/js/126.37057da3.chunk.js",
+    "static/js/489.f8a193d8.chunk.js": "/xquantum-react/static/js/489.f8a193d8.chunk.js",
+    "static/js/608.365f43e7.chunk.js": "/xquantum-react/static/js/608.365f43e7.chunk.js",
+    "static/js/507.fa7d5429.chunk.js": "/xquantum-react/static/js/507.fa7d5429.chunk.js",
+    "static/js/787.f8fbe521.chunk.js": "/xquantum-react/static/js/787.f8fbe521.chunk.js",
+    "static/js/492.15aa3666.chunk.js": "/xquantum-react/static/js/492.15aa3666.chunk.js",
+    "index.html": "/xquantum-react/index.html",
+    "main.436c3905.css.map": "/xquantum-react/static/css/main.436c3905.css.map",
+    "main.ff319457.js.map": "/xquantum-react/static/js/main.ff319457.js.map",
+    "431.6ce697e3.chunk.js.map": "/xquantum-react/static/js/431.6ce697e3.chunk.js.map",
+    "126.37057da3.chunk.js.map": "/xquantum-react/static/js/126.37057da3.chunk.js.map",
+    "489.f8a193d8.chunk.js.map": "/xquantum-react/static/js/489.f8a193d8.chunk.js.map",
+    "608.365f43e7.chunk.js.map": "/xquantum-react/static/js/608.365f43e7.chunk.js.map",
+    "787.f8fbe521.chunk.js.map": "/xquantum-react/static/js/787.f8fbe521.chunk.js.map",
+    "492.15aa3666.chunk.js.map": "/xquantum-react/static/js/492.15aa3666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436c3905.css",
+    "static/js/main.ff319457.js"
+  ]
+}
